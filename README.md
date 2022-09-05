@@ -32,7 +32,8 @@ I am pursuing a new career in tech
 - :books: Graduated in business management;
 
 - :coffee: In my spare time, I love discovering new places and people, playing some sports and dabbling between the ukulele and cooking!
-- :mailbox_with_mail:	How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Federica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federica-costantino/)
+- :mailbox_with_mail:	How to reach me:
+<a href="mailto:ricacostt@gmail.com"> :email: mail me </a>
 
 
 
