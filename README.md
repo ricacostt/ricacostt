@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VJE5f22EQwaHjx5gTk/giphy.gif" width="150"/>
+  <img src="https://cdn.dribbble.com/users/59947/screenshots/16487566/media/1cddaf2f18e67d9bf1f94b65bd2b07c8.jpg?compress=1&resize=768x576&vertical=top" width="250"/>
 </div>
 
 <div id="badges" align="center">
@@ -7,17 +7,17 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/ricacostt">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Hey+there!+I+am+Federica." alt="Typing SVG" /></a>
 </h1>
 
+
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2893989/screenshots/16184117/media/6f04ded8c0e12e6362c63d50bac7d7c7.png" width="600" height="400"/>
+  <img src="https://cdn.dribbble.com/userupload/3355570/file/original-0f89df85b8b272be0980e064f0e5a806.png?compress=1&resize=1024x768" width="600" height="400"/>
 </div>
 
 ---
