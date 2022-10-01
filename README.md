@@ -16,9 +16,6 @@
 </h1>
 
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/3355570/file/original-0f89df85b8b272be0980e064f0e5a806.png?compress=1&resize=1024x768" width="600" height="400"/>
-</div>
 
 ---
 
