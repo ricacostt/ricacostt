@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 I am pursuing a new career in tech
 
-- :rocket: Full Stack Web Development Skills Bootcamp course @SchoolOfCode;
+- :rocket: Full Stack Web Development Bootcamper @SchoolOfCode;
 
 - :surfing_woman: Exploring UI/UX design and accessibility;
 
