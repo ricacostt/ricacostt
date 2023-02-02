@@ -28,7 +28,7 @@ I am pursuing a new career in tech
 
 - :books: Graduated in business management;
 
-- :coffee: In my spare time, I love discovering new places and people, playing some sports and dabbling between the ukulele and cooking!
+- :coffee: In my spare time, I love discovering new places and people, reading and dabbling between the guitar and the ukulele!
 - :mailbox_with_mail:	How to reach me:
 <a href="mailto:ricacostt@gmail.com"> :email: mail me </a>
 
