@@ -21,8 +21,9 @@
 
 ### :woman_technologist: About Me :
 I am pursuing a new career in tech
+- 📘 [visit my portfolio](https://federicacostantino.netlify.app/)
 
-- :rocket: Full Stack Web Development Bootcamper @SchoolOfCode;
+- :rocket: recently graduated from a Full-Stack Software Development Bootcamp @SchoolOfCode;
 
 - :surfing_woman: Exploring UI/UX design and accessibility;
 
