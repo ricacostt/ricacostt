@@ -3,12 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/federica-costantino/">
+  <a target="_blank" href="https://www.linkedin.com/in/federica-costantino/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/ricacostt">
+  <a target="_blank" href="https://twitter.com/ricacostt">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br/>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/ricacostt"><img src="https://www.codewars.com/users/ricacostt/badges/micro" alt="codewars badge micro" /></a>
 </div>
 
 <h1 align="center">
