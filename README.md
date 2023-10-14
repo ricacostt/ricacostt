@@ -23,7 +23,9 @@
 
 ### :woman_technologist: About Me :
 I am pursuing a new career in tech
-- 📘 [visit my portfolio](https://federicacostantino.netlify.app/)
+- 📘 [visit my portfolio](https://ricacosta.dev/)
+
+- :bicyclist: Currently working as Associate Software Engineer @ADP
 
 - :rocket: recently graduated from a Full-Stack Software Development Bootcamp @SchoolOfCode;
 
@@ -31,7 +33,7 @@ I am pursuing a new career in tech
 
 - :books: Graduated in business management;
 
-- :coffee: In my spare time, I love discovering new places and people, reading and dabbling between the guitar and the ukulele!
+- :coffee: I enjoy exploring through travel and camping trips. I am a yoga practitioner, skilled in kung fu, and a passionate tennis player.
 - :mailbox_with_mail:	How to reach me:
 <a href="mailto:ricacostt@gmail.com"> :email: mail me </a>
 
